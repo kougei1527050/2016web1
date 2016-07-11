@@ -33,6 +33,11 @@ body{
   color:mediumturquoise;
   font-weight:bold;
 }
+#gnav a.main1{
+  background:white;
+  color:mediumturquoise;
+  font-weight:bold;
+}
 #gnav ul{
   overflow:hidden;
 }
