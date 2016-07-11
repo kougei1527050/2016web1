@@ -29,7 +29,7 @@ body{
 
 #gnav a.selected{
   background:white;
-  color:darkgreen;
+  color:lightblue;
   font-weight:bold;
 }
 #gnav ul{
