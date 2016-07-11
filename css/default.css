@@ -8,6 +8,7 @@ body{
   display:block;
   text-align:center;
   text-decoration:none;
+  background:mediumturquoise;
   color:white;
 }
 
@@ -29,7 +30,7 @@ body{
 
 #gnav a.selected{
   background:white;
-  color:lightblue;
+  color:mediumturquoise;
   font-weight:bold;
 }
 #gnav ul{
