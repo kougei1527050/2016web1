@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+body{
+  background-color: mediumaquamarine;
+}
+
+
+
+#gnav div.text{
+  display:table-cell;
+  vertical-align:middle;
+  padding:10px 5px;
+}
+
+div.img#home{ background-position:0 0px;}
+div.img#content1{ background-position:0 -46px;}
+div.img#content2{ background-position:0 -92px;}
+div.img#help{ background-position:0 -138px;}
+div.img#fap{  background-position:0 -184px;}
+
+#gnav a:hover{
+  background:lightgreen;
+  color:black;
+}
+
+#gnav a.selected{
+  background:white;
+  color:darkgreen;
+  font-weight:bold;
+}
+#gnav ul{
+  overflow:hidden;
+}
+
+#gnav li{
+  float:left;
+  width:156px;
+  border-right:white 1px solid;
+  list-style-type:none;
+}
+
+#gnav li:first-child{
+  border-left:white 1px solid;
+}
