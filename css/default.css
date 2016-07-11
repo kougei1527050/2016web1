@@ -28,7 +28,7 @@ body{
   color:black;
 }
 
-#gnav a.selected{
+#gnav a.home{
   background:white;
   color:mediumturquoise;
   font-weight:bold;
