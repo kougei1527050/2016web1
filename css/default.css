@@ -22,7 +22,6 @@ body{
 #gnav a.text{
   display:table-cell;
   vertical-align:middle;
-   padding:10px 5px;
 }
 
 #gnav a:hover{
@@ -31,22 +30,26 @@ body{
 }
 
 #gnav a.home{
+    display:table-cell;
   background:white;
   color:mediumturquoise;
   font-weight:bold;
 }
 #gnav a.main1{
+    display:table-cell;
   background:white;
   color:mediumturquoise;
   font-weight:bold;
 }
 
 #gnav a.main2{
+    display:table-cell;
   background:white;
   color:mediumturquoise;
   font-weight:bold;
 }
 #gnav a.link{
+    display:table-cell;
   background:white;
   color:mediumturquoise;
   font-weight:bold;
