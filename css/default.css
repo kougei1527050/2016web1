@@ -34,12 +34,14 @@ body{
   background:white;
   color:mediumturquoise;
   font-weight:bold;
+    vertical-align:middle;
 }
 #gnav a.main1{
     display:table-cell;
   background:white;
   color:mediumturquoise;
   font-weight:bold;
+    vertical-align:middle;
 }
 
 #gnav a.main2{
@@ -47,12 +49,14 @@ body{
   background:white;
   color:mediumturquoise;
   font-weight:bold;
+    vertical-align:middle;
 }
 #gnav a.link{
     display:table-cell;
   background:white;
   color:mediumturquoise;
   font-weight:bold;
+    vertical-align:middle;
 }
 #gnav ul{
   overflow:hidden;
