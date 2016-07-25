@@ -18,9 +18,10 @@ body{
 }
 
 
-#gnav div.text{
+#gnav a.text{
   display:table-cell;
   vertical-align:middle;
+   padding:10px 5px;
 }
 
 #gnav a:hover{
