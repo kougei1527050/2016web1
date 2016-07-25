@@ -65,7 +65,7 @@ body{
 }
 
 #yura{
-  position:center;
+  position:absolute;
   width:300px;
   left:500px;
   top:300px;
