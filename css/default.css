@@ -7,7 +7,7 @@ body{
 #gnav a{
   display:block;
   text-align:center;
-  text-decoration:center;
+  text-decoration:none;
   background:lightskyblue;
   color:white;
 }
@@ -20,7 +20,7 @@ body{
 #gnav div.text{
   display:table-cell;
   vertical-align:middle;
-  padding:10px 5px;
+  padding:20px 10px;
 }
 
 #gnav a:hover{
