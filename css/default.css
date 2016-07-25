@@ -55,6 +55,7 @@ body{
 
 #gnav li{
   float:left;
+  height:46px;
   width:156px;
   border-right:white 1px solid;
   list-style-type:none;
