@@ -7,7 +7,7 @@ body{
 #gnav a{
   display:block;
   text-align:center;
-  text-decoration:none;
+  text-decoration:center;
   background:lightskyblue;
   color:white;
 }
