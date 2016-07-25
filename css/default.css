@@ -44,6 +44,11 @@ body{
   color:mediumturquoise;
   font-weight:bold;
 }
+#gnav a.link{
+  background:white;
+  color:mediumturquoise;
+  font-weight:bold;
+}
 #gnav ul{
   overflow:hidden;
 }
